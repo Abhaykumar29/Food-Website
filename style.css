@@ -562,3 +562,6 @@ nav .social-media a {
 		width: auto;
 	}
 }
+.owl-theme .owl-dots .owl-dot span{
+	margin: 0px !important;
+}
